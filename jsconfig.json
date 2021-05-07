@@ -9,6 +9,6 @@
   },
   "exclude": ["./node_modules", "dist", ".next", ".cache", "bundles", "out"],
   "typeAcquisition": {
-    "exclude": ["dotenv"]
+    "exclude": ["dotenv", "node_modules"]
   }
 }
